@@ -27,6 +27,6 @@ Regression             |  Regression & Classification
 
 ## Results
 ![](images/mtl-regression-results.png) 
-![](images/sytems-results.png) 
+![](images/systems-results.png) 
 
 
