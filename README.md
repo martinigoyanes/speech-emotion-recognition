@@ -20,4 +20,4 @@ the results of the system.
 ## Models 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](img/mtl-regression-model.png)  |  ![](img/mtl-regression-class-model.png)
+![](img/mtl-regression.png)  |  ![](img/mtl-class.png)
