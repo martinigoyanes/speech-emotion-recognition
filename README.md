@@ -20,4 +20,4 @@ the results of the system.
 ## Models 
 Regression             |  Regression & Classification
 :-------------------------:|:-------------------------:
-![](img/mtl-regression.png)  |  ![](img/mtl-class.png)
+![](images/mtl-regression.png)  |  ![](images/mtl-class.png)
