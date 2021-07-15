@@ -1,5 +1,10 @@
 # Dimensional and Discrete Emotion Recognition using Multi-task Learning from Acoustic and Linguistic features extracted from Speech
 
+## Requirements 
+``
+nltk==3.6.1   matplotlib==3.3.3 numpy==1.19.5 audiofile==0.4.1 contractions==0.0.49 opensmile==2.0.0 seaborn==0.11.1 pandas==1.1.4 SpeechRecognition==3.8.1
+scipy==1.5.4  Keras==2.2.4  torch==1.5.1  imblearn==0.0 pyAudioAnalysis==0.3.7  scikit_learn==0.24.2  xgboost==1.4.2
+``
 ## Abstract
 The majority of research in speech emotion recognition focuses on the classification
 of discrete emotions either from acoustic features or text features. This thesis demonstrates that the dimensional representation of emotions is also very valuable and it shows
