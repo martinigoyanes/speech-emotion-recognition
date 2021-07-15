@@ -18,5 +18,4 @@ the results of the system.
 
 
 ## Models 
-:-------------------------:|:-------------------------:
 ![](img/mtl-regression.png)  |  ![](img/mtl-class.png)
