@@ -7,6 +7,7 @@ its advantages over categorical emotions. The thesis proposes two different syst
 both use bimodal features (text and acoustics) in order to recognize discrete and dimensional emotions. A sequential system that first performs dimensional regression and then
 classification and a parallel system that performs classification and regression at the same
 time.
+
 The thesis develops a multi-task regression model that serves as the core for both systems. Using the Concordance Correlation Coefficient (CCC) for evaluation it is discovered that the thesis developed architecture for dimensional regression outperforms across
 all dimensions (valence, arousal, dominance) the regression model introduced in previous
 research at the Cambridge institution. In addition, the thesis proves that the sequential
