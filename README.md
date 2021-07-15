@@ -15,3 +15,5 @@ system outperforms the parallel system in the recognition of both discrete (clas
 accuracy) and dimensional emotions (CCC). This finding verifies the validity of the theoretical model of psychology about dimensional emotions and its ability to represent a
 discrete emotion in a three dimensional space without losing any information. Furthermore, it is demonstrated how transfer learning can be used in this specific task to improve
 the results of the system.
+
+
