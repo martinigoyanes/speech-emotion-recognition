@@ -17,3 +17,7 @@ discrete emotion in a three dimensional space without losing any information. Fu
 the results of the system.
 
 
+## Models 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](img/mtl-regression-model.png)  |  ![](img/mtl-regression-class-model.png)
