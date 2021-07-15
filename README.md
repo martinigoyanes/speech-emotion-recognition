@@ -18,6 +18,5 @@ the results of the system.
 
 
 ## Models 
-Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 ![](img/mtl-regression.png)  |  ![](img/mtl-class.png)
